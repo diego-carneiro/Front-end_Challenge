@@ -26,9 +26,9 @@ profile photo: (any image address)<br>
 PNG image format was not accepted after deploy, only SVG´s.
 
 Before<br>
-![image](https://user-images.githubusercontent.com/87549786/141184694-46fec300-61df-4ee7-8522-d276ae953975.png)
+![image](https://user-images.githubusercontent.com/87549786/141184694-46fec300-61df-4ee7-8522-d276ae953975.png)<br>
 After<br>
-![image](https://user-images.githubusercontent.com/87549786/141185372-06219c6d-6a38-476e-b05f-64a320c14b55.png)
+![image](https://user-images.githubusercontent.com/87549786/141185372-06219c6d-6a38-476e-b05f-64a320c14b55.png)<br>
 
 
 
