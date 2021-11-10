@@ -10,7 +10,7 @@ Based on the challenge requirements, it contains:
 * Open sourced;<br>
 * Figma desing;<br>
 * Authenticated login (BEARER Token);<br>
-* Deployed at Versel.<br>
+* Deployed at Vercel.<br>
 
 # Instructions
 
