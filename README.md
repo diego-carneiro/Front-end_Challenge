@@ -1,3 +1,30 @@
+# Frontend-Challenge
+
+This project is a clone of Instagram, built using React. 
+Based on the challenge requirements, it contains:
+
+* CRA usage;<br>
+* Retrieved data from a public API;<br>
+* Responsive content based on window size;<br>
+* Reusable components;<br>
+* Open sourced;<br>
+* Figma desing;<br>
+* Authenticated login (BEARER Token);<br>
+* Deployed at Versel.<br>
+
+# Instructions
+
+To create an account:<br>
+
+e-mail: name@name.com<br>
+password: (no restrictions)<br>
+name: (no restrictions)<br>
+profile photo: (any image address)<br>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
